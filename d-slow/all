@@ -1,0 +1,8 @@
+./isp &
+sleep 101
+./ibusiness &
+sleep 90
+./personx &
+sleep 90
+./zbusiness &
+sleep 90

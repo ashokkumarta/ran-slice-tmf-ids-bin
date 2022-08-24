@@ -1,0 +1,3 @@
+cd ~/ashok/ran-slice-tmf-ids-deploy/connectors/RAN-SILCE-UC
+sudo ./personx.sh 1> ../logs/personx.log 2> ../logs/personx.err &
+tail -f ../logs/personx.log

@@ -1,0 +1,3 @@
+cd ~/ashok/ran-slice-tmf-ids-deploy/connectors/RAN-SILCE-UC
+sudo ./ibusiness.sh 1> ../logs/ibusiness.log 2> ../logs/ibusiness.err &
+tail -f ../logs/ibusiness.log
