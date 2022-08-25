@@ -1,4 +1,4 @@
-export LOGIO_SERVER_CONFIG_PATH="/home/azureuser/ashok/ran-slice-tmf-ids-logs/dist/server.json"
-export LOGIO_FILE_INPUT_CONFIG_PATH="/home/azureuser/ashok/ran-slice-tmf-ids-logs/dist/inputs/file.json"
+export LOGIO_SERVER_CONFIG_PATH="/home/ashokkumar_ta/ids/setup/ran-slice-tmf-ids-logs/dist/server.json"
+export LOGIO_FILE_INPUT_CONFIG_PATH="/home/ashokkumar_ta/ids/setup/ran-slice-tmf-ids-logs/dist/inputs/file.json"
 log.io-server &
 log.io-file-input &
