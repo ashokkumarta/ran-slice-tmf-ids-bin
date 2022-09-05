@@ -1,8 +1,6 @@
-./isp &
+./csp &
 sleep 101
-./ibusiness &
+./sub1 &
 sleep 90
-./personx &
-sleep 90
-./zbusiness &
+./sub2 &
 sleep 90
